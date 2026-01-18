@@ -1,0 +1,26 @@
+h1 {
+color: rgb(0, 0, 0);
+}
+.navigation {
+    background-color: #000000;
+    overflow: hidden;
+}
+
+.navigation a {
+    float: left;
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navigation a:hover {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+img {
+    border-radius: 89px;
+}
+<img src="assets/imgs/webApp.png"/>
